@@ -1,0 +1,69 @@
+body{
+    margin: 0px;
+    background-color: whitesmoke;
+    
+}
+#Barra{
+    background-color: white;
+    margin-top: -25px;
+    display: flex;
+    border: 1px black;
+    
+}
+
+#Titulo{
+    font-family: 'Merriweather',serif;
+    color: black;
+    font-size: 70px;
+    margin: 0%;
+    margin-top: 30px;
+    margin-left: 200px;
+}
+
+#imagen1{
+    margin-top: 30px;
+    width: 130px;
+    height: 100px;
+    margin-left: 700px;
+}
+
+#Formulario label{
+    font-family: 'Merriweather',serif;
+}
+
+
+#Formulario{
+    background-color: white;
+    margin-left: 400px;
+    margin-top: 50px;
+    width: 700px;
+    padding: 12px 20px;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+      
+}
+
+#Formulario input {
+    
+    width: 600px;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px black;
+    border-radius: 4px;
+    box-sizing: border-box;
+    background-color: whitesmoke;
+}
+
+
+#BotonesFormulario button{
+    font-family: 'Merriweather',serif;
+    width: 120px;
+    padding: 10px;
+    margin-top: 20px;
+    margin-left: 30px;
+    background-color: whitesmoke;
+    border-radius: 10px;
+}
